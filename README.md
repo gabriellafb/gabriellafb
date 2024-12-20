@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• My name is Gabriel Lucas and i'm from PE, Brazil 🇧🇷</p>
+<p align="center">• My name is Gabriel Lucas and i'm from PE, Brazil 🇧🇷</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• Trainee at Receita Federal</p>
+<p align="center">• Trainee at Receita Federal</p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gabriellucasafb/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
